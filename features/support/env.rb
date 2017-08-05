@@ -8,4 +8,4 @@ end
 Capybara.default_driver = :selenium
 Capybara.default_max_wait_time = 20
 
-Capybara.app_host = "https://www.flube.com.br/"
+Capybara.app_host = "https://www.google.com.br/"
